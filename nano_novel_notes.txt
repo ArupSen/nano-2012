@@ -23,4 +23,5 @@ name is on her passport.
 // she doesn't want treatment and her husband can't deal with it
 // Trudy's husband died after an attack with an intruder, after which Trudy 
 took up self-defense classes and Taekwondo
-
+// One travelling companion is called Rufus
+// Narrator is called Alex who is a hippy with dreads and a van
