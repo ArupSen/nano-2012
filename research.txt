@@ -16,6 +16,6 @@ accuracy.
 // Average age for breast cancer
 	http://www.cancer.med.umich.edu/news/brcancer_myths06.shtml
 
-// Degree required for a stockbroker
-// How common are women stockbrokers in mid 2000's
 // Location of hospital on West Coast where she has 2nd scan
+// Details about a Court clerk in NYC
+// Location of harvard law school and length of course
