@@ -19,3 +19,6 @@ accuracy.
 // Location of hospital on West Coast where she has 2nd scan
 // Details about a Court clerk in NYC
 // Location of harvard law school and length of course
+// road trip from New York to California
+	Pittsburgh, Columbus, Indianapolis, St. Louis, Kansas City, Denver, 
+	Salt Lake City, Sacramento, Santa Rosa
