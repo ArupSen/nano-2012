@@ -3,18 +3,20 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
+TOTAL COUNT = 16034
 
-fire_scene1 - where Betty comes out of the sea
-fire_scene2 - Alex talks to Betty and describes her, how he sees her
-betty_pukes - the first time that Betty realises that something is up
-hospital_scene1 - Betty has a scan in a NYC hospital
-hospital_scene2 - Betty has a scan in California
-honeymoon - a two week luxury break in Goa
-anne_dies - Betty's sister Anne dies from toxic dust
-annes_funeral - life goes on and her close friends say goodbye
-alex_meets_betty - from the word go they get on even though Betty is topless
-alex_betty_kiss - they get up close and personal but it doesn't work
-driving_to_trudys - Betty prefers to drive rather than fly
-arriving_at_trudys - first night at trudy's place it California
-full_moon_party - the trio get off their faces at a party and Betty gets horny
-opening_scene - Anne Klein finds survivors in the aftermath of 911
+fire_scene1(659) - where Betty comes out of the sea
+fire_scene2() - Alex talks to Betty and describes her, how he sees her
+betty_pukes(2000) - the first time that Betty realises that something is up
+hospital_scene1() - Betty has a scan in a NYC hospital
+hospital_scene2() - Betty has a scan in California
+honeymoon(1974) - a two week luxury break in Goa
+anne_dies(2676) - Betty's sister Anne dies from toxic dust
+annes_funeral(141) - life goes on and her close friends say goodbye
+alex_meets_betty() - from the word go they get on even though Betty is topless
+alex_betty_kiss() - they get up close and personal but it doesn't work
+driving_to_trudys(2729) - Betty prefers to drive rather than fly
+arriving_at_trudys() - first night at trudy's place it California
+full_moon_party(2424) - the trio get off their faces at a party and Betty gets horny
+opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
+dead_dolphin(1502) - A dead dolphin washes up on the beach
