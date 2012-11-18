@@ -1,14 +1,15 @@
 nano-2012
 =========
 
-*NaNoWriMo 2012
 
-*If you have never heard of NaNoWriMo it's 
+* NaNoWriMo 2012
 
-*National Novel Writing Month
+* If you have never heard of NaNoWriMo it's 
 
-*During the month of November you have to come up with and write a 50,000 word novel
+* National Novel Writing Month
 
-*This is my first try. More info here:
+* During the month of November you have to come up with and write a 50,000 word novel
 
-*http://www.nanowrimo.org/
+* This is my first try. More info here:
+
+* http://www.nanowrimo.org/
