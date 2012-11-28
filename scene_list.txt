@@ -3,7 +3,7 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
-TOTAL COUNT = 36946
+TOTAL COUNT = 45992
 
 opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
 anne_dies(2676) - Betty's sister Anne dies from toxic dust
@@ -11,9 +11,11 @@ annes_funeral(2189) - life goes on and her close friends say goodbye
 betty_pukes(5399) - the first time that Betty realises that something is up
 morning_after_sex(2409) - the day after the hangover day
 mourning_period(2815) - Betty takes compassionate leave to grieve
+october(2966) - back at work it's police state and she has those symptoms again
 driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
 santa_rosa(3113) - lazy first Sunday at Trudy's place
+taekwondo_class(2967) - Betty goes with Trudy to her Taekwondo class
 fire_scene1(659) - where Betty comes out of the sea
 honeymoon(2397) - a two week luxury break in Goa
 full_moon_party(5713) - the trio get off their faces at a party and Betty gets horny
@@ -21,14 +23,10 @@ dead_dolphin(1502) - A dead dolphin washes up on the beach
 
 Scenes still to be written
 
-hospital_scene1() - Betty has a scan in a NYC hospital
-fire_scene2() - Alex talks to Betty and describes her, how he sees her
-hospital_scene2() - Betty has a scan in California
-alex_meets_betty() - from the word go they get on even though Betty is topless
-alex_betty_kiss() - they get up close and personal but it doesn't work
+mammogram_nyc() - Betty has a scan in a NYC hospital
+mammogram_sf() - Betty has a scan in California
+alex_meets_betty() - from the word go they get on 
 rehearsal_cancelled() - Betty cancels her wedding rehearsal and tells Steve
-taekwondo_class() - Betty goes with Trudy to her Taekwondo class
-not_gay() - Betty tries to kiss Trudy
 car_thief() - Trudy beats up car thief and almost kills him
 thanksgiving() - Betty remains in Santa Rosa
 train_to_nyc() - Betty returns to NYC by train, followed by wedding prep
