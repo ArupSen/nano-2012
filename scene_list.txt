@@ -13,6 +13,7 @@ morning_after_sex(2409) - the day after the hangover day
 mourning_period(2815) - Betty takes compassionate leave to grieve
 driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
+santa_rosa(3113) - lazy first Sunday at Trudy's place
 fire_scene1(659) - where Betty comes out of the sea
 honeymoon(2397) - a two week luxury break in Goa
 full_moon_party(5713) - the trio get off their faces at a party and Betty gets horny
