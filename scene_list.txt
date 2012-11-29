@@ -3,7 +3,7 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
-TOTAL COUNT = 50938
+TOTAL COUNT = 52335
 
 opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
 anne_dies(2676) - Betty's sister Anne dies from toxic dust
@@ -14,6 +14,7 @@ mourning_period(2815) - Betty takes compassionate leave to grieve
 october(2966) - back at work it's police state and she has those symptoms again
 mammogram_nyc(1270) - Betty has a scan in a NYC hospital
 rehearsal(1640) - they rehearse the wedding but Betty postpones it
+post_rehearsal(1397) - Betty explains that she needs to get away for a while
 driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
 santa_rosa(3113) - lazy first Sunday at Trudy's place
@@ -33,5 +34,4 @@ train_to_nyc() - Betty returns to NYC by train, followed by wedding prep
 wedding() - close family and friends, Trudy arrives
 betty_tells_steve() - Steve finally learns about the cancer
 final_scene() - Betty swims too far and Rufus attempts rescue; fisherman 
-post_rehearsal() - Betty explains that she needs to get away for a while
 christmas_day() - Betty has christmas in Goa and meets Rufus
