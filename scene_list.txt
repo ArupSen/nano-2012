@@ -3,7 +3,7 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
-TOTAL COUNT = 45992
+TOTAL COUNT = 48902
 
 opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
 anne_dies(2676) - Betty's sister Anne dies from toxic dust
@@ -12,6 +12,8 @@ betty_pukes(5399) - the first time that Betty realises that something is up
 morning_after_sex(2409) - the day after the hangover day
 mourning_period(2815) - Betty takes compassionate leave to grieve
 october(2966) - back at work it's police state and she has those symptoms again
+mammogram_nyc(1270) - Betty has a scan in a NYC hospital
+rehearsal(1640) - they rehearse the wedding but Betty postpones it
 driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
 santa_rosa(3113) - lazy first Sunday at Trudy's place
@@ -23,10 +25,8 @@ dead_dolphin(1502) - A dead dolphin washes up on the beach
 
 Scenes still to be written
 
-mammogram_nyc() - Betty has a scan in a NYC hospital
 mammogram_sf() - Betty has a scan in California
 alex_meets_betty() - from the word go they get on 
-rehearsal_cancelled() - Betty cancels her wedding rehearsal and tells Steve
 car_thief() - Trudy beats up car thief and almost kills him
 thanksgiving() - Betty remains in Santa Rosa
 train_to_nyc() - Betty returns to NYC by train, followed by wedding prep
