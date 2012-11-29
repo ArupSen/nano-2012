@@ -3,7 +3,7 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
-TOTAL COUNT = 48902
+TOTAL COUNT = 50938
 
 opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
 anne_dies(2676) - Betty's sister Anne dies from toxic dust
@@ -18,6 +18,7 @@ driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
 santa_rosa(3113) - lazy first Sunday at Trudy's place
 taekwondo_class(2967) - Betty goes with Trudy to her Taekwondo class
+mammogram_sf(2036) - Betty visits Los Molinos has a scan in California
 fire_scene1(659) - where Betty comes out of the sea
 honeymoon(2397) - a two week luxury break in Goa
 full_moon_party(5713) - the trio get off their faces at a party and Betty gets horny
@@ -25,7 +26,6 @@ dead_dolphin(1502) - A dead dolphin washes up on the beach
 
 Scenes still to be written
 
-mammogram_sf() - Betty has a scan in California
 alex_meets_betty() - from the word go they get on 
 car_thief() - Trudy beats up car thief and almost kills him
 thanksgiving() - Betty remains in Santa Rosa
@@ -33,4 +33,5 @@ train_to_nyc() - Betty returns to NYC by train, followed by wedding prep
 wedding() - close family and friends, Trudy arrives
 betty_tells_steve() - Steve finally learns about the cancer
 final_scene() - Betty swims too far and Rufus attempts rescue; fisherman 
+post_rehearsal() - Betty explains that she needs to get away for a while
 christmas_day() - Betty has christmas in Goa and meets Rufus
