@@ -3,7 +3,7 @@
 **************************** list of scenes *************************************
 *********************************************************************************
 *********************************************************************************
-TOTAL COUNT = 52335
+TOTAL COUNT = 53312
 
 opening_scene(1929) - Anne Klein finds survivors in the aftermath of 911
 anne_dies(2676) - Betty's sister Anne dies from toxic dust
@@ -19,7 +19,7 @@ driving_to_trudys(4743) - Betty prefers to drive rather than fly
 arriving_at_trudys(4515) - first night at trudy's place it California
 santa_rosa(3113) - lazy first Sunday at Trudy's place
 taekwondo_class(2967) - Betty goes with Trudy to her Taekwondo class
-mammogram_sf(2036) - Betty visits Los Molinos has a scan in California
+mammogram_sf(3013) - Betty visits Los Molinos has a scan in California
 fire_scene1(659) - where Betty comes out of the sea
 honeymoon(2397) - a two week luxury break in Goa
 full_moon_party(5713) - the trio get off their faces at a party and Betty gets horny
